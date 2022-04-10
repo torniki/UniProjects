@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\флешка бомба\университет\ООП\LABA2\Laba2\ConsoleApplication1\main.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\флешка бомба\университет\ООП\LABA2\Laba2\ConsoleApplication1\main.cpp(28,15): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+E:\флешка бомба\университет\ООП\LABA2\Laba2\ConsoleApplication1\main.cpp(30,15): warning C4566: символ, представленный универсальным именем символа "\uFFFD", невозможно представить в текущей кодовой странице (1251)
+  ConsoleApplication1.vcxproj -> E:\флешка бомба\университет\ООП\LABA2\Laba2\ConsoleApplication1\Debug\ConsoleApplication1.exe

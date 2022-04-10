@@ -1,0 +1,15 @@
+﻿Сборка начата 13.04.2021 19:37:56.
+     1>Проект "D:\численные методы\exe-lib\exe-lib.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\численные методы\exe-lib\x64\Debug\exe-lib.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\численные методы\exe-lib\x64\Debug\exe-lib.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\численные методы\exe-lib\x64\Debug\exe-lib.lib" /MACHINE:X64 x64\Debug\Main.obj
+         PolStr.lib
+     1>PolStr.lib(PolStr.obj) : warning LNK4204: в "D:\численные методы\exe-lib\x64\Debug\vc120.pdb" отсутствуют отладочные данные для ссылок на модуль; компоновка объекта выполняется как при отсутствии отладочных данных
+         exe-lib.vcxproj -> D:\численные методы\exe-lib\x64\Debug\exe-lib.exe
+     1>Сборка проекта "D:\численные методы\exe-lib\exe-lib.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:17.22

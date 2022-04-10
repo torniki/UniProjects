@@ -1,0 +1,6 @@
+﻿  Matrix.cpp
+L:\ООП\LABA2\Laba2\Laba2\Matrix.cpp(267,11): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+L:\ООП\LABA2\Laba2\Laba2\Matrix.cpp(299,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+L:\ООП\LABA2\Laba2\Laba2\Matrix.cpp(327,11): warning C4018: <=: несоответствие типов со знаком и без знака
+L:\ООП\LABA2\Laba2\Laba2\Matrix.cpp(335,11): warning C4018: <=: несоответствие типов со знаком и без знака
+L:\ООП\LABA2\Laba2\Laba2\Matrix.cpp(345,55): error C2296: %: недопустимо, левый операнд имеет тип "double"

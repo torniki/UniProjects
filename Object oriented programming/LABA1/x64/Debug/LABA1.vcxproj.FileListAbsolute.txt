@@ -1,0 +1,4 @@
+L:\университет\ООП\LABA1\x64\Debug\LABA1.exe
+L:\университет\ООП\LABA1\x64\Debug\LABA1.pdb
+E:\флешка бомба\университет\ООП\LABA1\x64\Debug\LABA1.exe
+E:\флешка бомба\университет\ООП\LABA1\x64\Debug\LABA1.pdb

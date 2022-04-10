@@ -1,0 +1,3 @@
+﻿  lab3.cpp
+E:\универ\методы оптимизации\lab3\lab3.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab3.vcxproj -> E:\универ\методы оптимизации\lab3\Debug\lab3.exe

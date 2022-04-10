@@ -1,0 +1,3 @@
+L:\численные методы\lr1\Debug\lr1.exe
+D:\Учеба\Численные\lr1\Debug\lr1.exe
+D:\Учеба\Численные\lr1\Debug\lr1.pdb
